@@ -2,6 +2,8 @@
 Currently configured to work with SQL Server with migrations of different versions included.  
 Authentication database is separate from the main database.
 
+### **Frontend repository can be found [here](https://github.com/ahmetselimkaraca/realestate-frontend).**
+
 Features:
 
 - Listing Creation:
@@ -13,5 +15,3 @@ Features:
 - Admin Features:
   - Adding new currency, type and status options
   - Editing or deleting any listings
- 
-  
